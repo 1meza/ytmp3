@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-04-19T18:16:16.273Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uVq6g1fNPL0M0kUwFuVK" version="21.1.9" type="device">
+  <diagram name="Page-1" id="OS1fut7ABcmPNDZbn7Rc">
+    <mxGraphModel dx="1410" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="520" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-3" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;YTMP3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-7" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-8" value="Enter Link to song/playlist:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-12" value="Download" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.no_symbol;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="135" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn0uhgE6jmPlN0-aOLHa-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.wave2;dy=0.3;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="610" y="140" width="35" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
